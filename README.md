@@ -1,5 +1,5 @@
 # Review project
-<img src="https://s4.gifyu.com/images/asd00210429ae02aa15.gif" style="width:480px;height:250px;">
+<img src="https://s4.gifyu.com/images/asd00210429ae02aa15.gif">
 
 
 
